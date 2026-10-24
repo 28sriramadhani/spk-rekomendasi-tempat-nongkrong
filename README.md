@@ -1,7 +1,7 @@
 # ☕ Sistem Pendukung Keputusan (SPK) Rekomendasi Tempat Nongkrong Menggunakan Metode SAW
 
 ## 📌 Deskripsi Proyek
-Sebuah aplikasi Sistem Pendukung Keputusan (SPK) berbasis web yang dirancang untuk membantu pengguna menentukan rekomendasi tempat nongkrong (cafe/resto) terbaik di wilayah Bireuen dan sekitarnya berdasarkan kriteria tertentu. Proyek ini dikembangkan pada Semester 5 sebagai pemenuhan tugas besar mata kuliah Sistem Pendukung Keputusan di Universitas Almuslim.
+Sebuah aplikasi Sistem Pendukung Keputusan (SPK) berbasis web yang dirancang untuk membantu pengguna menentukan rekomendasi tempat nongkrong (cafe/resto) terbaik di wilayah Bireuen dan sekitarnya berdasarkan kriteria tertentu. Proyek ini dikembangkan pada Semester 5 sebagai pemenuhan tugas besar mata kuliah Sistem Pendukung Keputusan.
 
 Sistem ini menerapkan **Metode SAW (Simple Additive Weighting)** untuk melakukan perhitungan matematis secara objektif. Proses analisis dilakukan dengan mencari penjumlahan terbobot dari rating kinerja pada setiap alternatif di semua kriteria yang telah ditentukan.
 
@@ -33,5 +33,5 @@ Sistem ini menerapkan **Metode SAW (Simple Additive Weighting)** untuk melakukan
 
 ## 👤 Developer
 **Sri Ramadhani**  
-S1 Informatika — Universitas Almuslim  
+S1 Informatika
 📧 sriramadani596@gmail.com
