@@ -30,6 +30,9 @@ Sistem ini menerapkan **Metode SAW (Simple Additive Weighting)** untuk melakukan
 
 ### Hasil Akhir & Rekomendasi Ranking
 ![Hasil Ranking](screenshots/hasil-ranking.png)
+### Database 
+![Database](screenshots/database)
+
 
 ## 👤 Developer
 **Sri Ramadhani**  
