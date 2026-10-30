@@ -33,6 +33,9 @@ Sistem ini menerapkan **Metode SAW (Simple Additive Weighting)** untuk melakukan
 ### Database 
 ![Database](screenshots/database.png)
 
+## 📂 Source Code
+Source code tersedia atas permintaan. Silakan hubungi sriramadani596@gmail.com.
+
 
 ## 👤 Developer
 **Sri Ramadhani**  
