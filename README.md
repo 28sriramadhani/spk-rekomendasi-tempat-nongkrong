@@ -36,8 +36,9 @@ Sistem ini menerapkan **Metode SAW (Simple Additive Weighting)** untuk melakukan
 ## 📂 Source Code
 Source code tersedia atas permintaan. Silakan hubungi sriramadani596@gmail.com.
 
-
 ## 👤 Developer
-**Sri Ramadhani**  
-S1 Informatika
+Sri Ramadhani
+S1 Informatika — Universitas Almuslim (2026)
+IPK: 3,90 | Cumlaude | Wisudawan Terbaik 2026
 📧 sriramadani596@gmail.com
+
